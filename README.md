@@ -7,6 +7,8 @@ Tools Used
 Python
 Pandas
 Excel
+
+
 **Business Insights****
 Identified high-value customers
 Analyzed failed transactions
