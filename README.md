@@ -1,7 +1,7 @@
 **Banking Transaction Analysis Project**
 **Overview**
 
-This project analyzes banking transaction data using SQL, Python, and Power BI to generate business insights and KPI reports.
+This project analyzes banking transaction data using Python to generate business insights and KPI reports.
 
 Tools Used
 Python
